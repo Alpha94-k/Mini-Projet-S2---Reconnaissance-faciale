@@ -1,0 +1,236 @@
+c:\users\alpha\documents\visual studio 2013\Projects\Mini Projet IHM\Mini Projet IHM\bin\Debug\Mini Projet IHM.exe.config
+c:\users\alpha\documents\visual studio 2013\Projects\Mini Projet IHM\Mini Projet IHM\bin\Debug\Mini Projet IHM.exe
+c:\users\alpha\documents\visual studio 2013\Projects\Mini Projet IHM\Mini Projet IHM\bin\Debug\Mini Projet IHM.pdb
+c:\users\alpha\documents\visual studio 2013\Projects\Mini Projet IHM\Mini Projet IHM\bin\Debug\Mini Projet IHM.xml
+c:\users\alpha\documents\visual studio 2013\Projects\Mini Projet IHM\Mini Projet IHM\obj\Debug\Mini_Projet_IHM.Form1.resources
+c:\users\alpha\documents\visual studio 2013\Projects\Mini Projet IHM\Mini Projet IHM\obj\Debug\Mini_Projet_IHM.Resources.resources
+c:\users\alpha\documents\visual studio 2013\Projects\Mini Projet IHM\Mini Projet IHM\obj\Debug\Mini Projet IHM.vbproj.GenerateResource.Cache
+c:\users\alpha\documents\visual studio 2013\Projects\Mini Projet IHM\Mini Projet IHM\obj\Debug\Mini Projet IHM.exe
+c:\users\alpha\documents\visual studio 2013\Projects\Mini Projet IHM\Mini Projet IHM\obj\Debug\Mini Projet IHM.xml
+c:\users\alpha\documents\visual studio 2013\Projects\Mini Projet IHM\Mini Projet IHM\obj\Debug\Mini Projet IHM.pdb
+C:\Users\alpha\Documents\Visual Studio 2013\Projects\Mini Projet IHM\Mini Projet IHM\bin\Debug\AForge.xml
+C:\Users\alpha\Documents\Visual Studio 2013\Projects\Mini Projet IHM\Mini Projet IHM\bin\Debug\AForge.Video.xml
+C:\Users\alpha\Documents\Visual Studio 2013\Projects\Mini Projet IHM\Mini Projet IHM\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\alpha\Documents\Visual Studio 2013\Projects\Mini Projet IHM\Mini Projet IHM\obj\Debug\Mini Projet IHM.vbprojResolveAssemblyReference.cache
+C:\Users\alpha\Documents\Visual Studio 2013\Projects\Mini Projet IHM\Mini Projet IHM\obj\Debug\Mini_Projet_IHM.Form2.resources
+C:\Users\Samflame\Nextcloud\Projet IHM\Implémentation de l'application\Mini Projet IHM2\Mini Projet IHM\Mini Projet IHM\bin\Debug\Mini Projet IHM.exe.config
+C:\Users\Samflame\Nextcloud\Projet IHM\Implémentation de l'application\Mini Projet IHM2\Mini Projet IHM\Mini Projet IHM\bin\Debug\Mini Projet IHM.exe
+C:\Users\Samflame\Nextcloud\Projet IHM\Implémentation de l'application\Mini Projet IHM2\Mini Projet IHM\Mini Projet IHM\bin\Debug\Mini Projet IHM.pdb
+C:\Users\Samflame\Nextcloud\Projet IHM\Implémentation de l'application\Mini Projet IHM2\Mini Projet IHM\Mini Projet IHM\bin\Debug\Mini Projet IHM.xml
+C:\Users\Samflame\Nextcloud\Projet IHM\Implémentation de l'application\Mini Projet IHM2\Mini Projet IHM\Mini Projet IHM\bin\Debug\AForge.xml
+C:\Users\Samflame\Nextcloud\Projet IHM\Implémentation de l'application\Mini Projet IHM2\Mini Projet IHM\Mini Projet IHM\bin\Debug\AForge.Video.xml
+C:\Users\Samflame\Nextcloud\Projet IHM\Implémentation de l'application\Mini Projet IHM2\Mini Projet IHM\Mini Projet IHM\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Samflame\Nextcloud\Projet IHM\Implémentation de l'application\Mini Projet IHM2\Mini Projet IHM\Mini Projet IHM\obj\Debug\Mini Projet IHM.vbprojAssemblyReference.cache
+C:\Users\Samflame\Nextcloud\Projet IHM\Implémentation de l'application\Mini Projet IHM2\Mini Projet IHM\Mini Projet IHM\obj\Debug\Mini_Projet_IHM.Form1.resources
+C:\Users\Samflame\Nextcloud\Projet IHM\Implémentation de l'application\Mini Projet IHM2\Mini Projet IHM\Mini Projet IHM\obj\Debug\Mini_Projet_IHM.Form2.resources
+C:\Users\Samflame\Nextcloud\Projet IHM\Implémentation de l'application\Mini Projet IHM2\Mini Projet IHM\Mini Projet IHM\obj\Debug\Mini_Projet_IHM.Resources.resources
+C:\Users\Samflame\Nextcloud\Projet IHM\Implémentation de l'application\Mini Projet IHM2\Mini Projet IHM\Mini Projet IHM\obj\Debug\Mini Projet IHM.vbproj.GenerateResource.cache
+C:\Users\Samflame\Nextcloud\Projet IHM\Implémentation de l'application\Mini Projet IHM2\Mini Projet IHM\Mini Projet IHM\obj\Debug\Mini Projet IHM.vbproj.CoreCompileInputs.cache
+C:\Users\Samflame\Nextcloud\Projet IHM\Implémentation de l'application\Mini Projet IHM2\Mini Projet IHM\Mini Projet IHM\obj\Debug\Mini Projet IHM.vbproj.CopyComplete
+C:\Users\Samflame\Nextcloud\Projet IHM\Implémentation de l'application\Mini Projet IHM2\Mini Projet IHM\Mini Projet IHM\obj\Debug\Mini Projet IHM.exe
+C:\Users\Samflame\Nextcloud\Projet IHM\Implémentation de l'application\Mini Projet IHM2\Mini Projet IHM\Mini Projet IHM\obj\Debug\Mini Projet IHM.xml
+C:\Users\Samflame\Nextcloud\Projet IHM\Implémentation de l'application\Mini Projet IHM2\Mini Projet IHM\Mini Projet IHM\obj\Debug\Mini Projet IHM.pdb
+C:\Users\Samflame\Nextcloud\Projet IHM\Implémentation de l'application\Mini Projet IHM2\Mini Projet IHM\Mini Projet IHM\obj\Debug\Mini_Projet_IHM.Form3.resources
+C:\Users\Samflame\Nextcloud\Projet IHM\Implémentation de l'application\Mini Projet IHM2\Mini Projet IHM\Mini Projet IHM\obj\Debug\Mini_Projet_IHM.Form4.resources
+C:\Users\Samflame\Nextcloud\Projet IHM\Implémentation de l'application\Mini Projet IHM2\Mini Projet IHM\Mini Projet IHM\bin\Debug\AForge.dll
+C:\Users\Samflame\Nextcloud\Projet IHM\Implémentation de l'application\Mini Projet IHM2\Mini Projet IHM\Mini Projet IHM\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Samflame\Nextcloud\Projet IHM\Implémentation de l'application\Mini Projet IHM2\Mini Projet IHM\Mini Projet IHM\bin\Debug\AForge.Video.dll
+C:\Users\alpha\Desktop\Mini Projet IHM\Mini Projet IHM\bin\Debug\Mini Projet IHM.exe.config
+C:\Users\alpha\Desktop\Mini Projet IHM\Mini Projet IHM\obj\Debug\Mini Projet IHM.exe
+C:\Users\alpha\Desktop\Mini Projet IHM\Mini Projet IHM\obj\Debug\Mini Projet IHM.xml
+C:\Users\alpha\Desktop\Mini Projet IHM\Mini Projet IHM\obj\Debug\Mini Projet IHM.pdb
+C:\Users\alpha\Desktop\Mini Projet IHM\Mini Projet IHM\bin\Debug\Mini Projet IHM.exe
+C:\Users\alpha\Desktop\Mini Projet IHM\Mini Projet IHM\bin\Debug\Mini Projet IHM.pdb
+C:\Users\alpha\Desktop\Mini Projet IHM\Mini Projet IHM\bin\Debug\Mini Projet IHM.xml
+C:\Users\alpha\Desktop\Mini Projet IHM\Mini Projet IHM\bin\Debug\AForge.dll
+C:\Users\alpha\Desktop\Mini Projet IHM\Mini Projet IHM\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\alpha\Desktop\Mini Projet IHM\Mini Projet IHM\bin\Debug\AForge.Video.dll
+C:\Users\alpha\Desktop\Mini Projet IHM\Mini Projet IHM\bin\Debug\AForge.xml
+C:\Users\alpha\Desktop\Mini Projet IHM\Mini Projet IHM\bin\Debug\AForge.Video.xml
+C:\Users\alpha\Desktop\Mini Projet IHM\Mini Projet IHM\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\alpha\Desktop\Mini Projet IHM\Mini Projet IHM\obj\Debug\Mini Projet IHM.vbprojResolveAssemblyReference.cache
+C:\Users\alpha\Desktop\Mini Projet IHM\Mini Projet IHM\obj\Debug\Mini_Projet_IHM.Form1.resources
+C:\Users\alpha\Desktop\Mini Projet IHM\Mini Projet IHM\obj\Debug\Mini_Projet_IHM.Form2.resources
+C:\Users\alpha\Desktop\Mini Projet IHM\Mini Projet IHM\obj\Debug\Mini_Projet_IHM.Form3.resources
+C:\Users\alpha\Desktop\Mini Projet IHM\Mini Projet IHM\obj\Debug\Mini_Projet_IHM.Form4.resources
+C:\Users\alpha\Desktop\Mini Projet IHM\Mini Projet IHM\obj\Debug\Mini_Projet_IHM.Resources.resources
+C:\Users\alpha\Desktop\Mini Projet IHM\Mini Projet IHM\obj\Debug\Mini Projet IHM.vbproj.GenerateResource.Cache
+C:\Users\alpha\Documents\Visual Studio 2013\Projects\Mini Projet IHM\Mini Projet IHM\bin\Debug\AForge.dll
+C:\Users\alpha\Documents\Visual Studio 2013\Projects\Mini Projet IHM\Mini Projet IHM\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\alpha\Documents\Visual Studio 2013\Projects\Mini Projet IHM\Mini Projet IHM\bin\Debug\AForge.Video.dll
+C:\Users\alpha\Documents\Visual Studio 2013\Projects\Mini Projet IHM\Mini Projet IHM\obj\Debug\Mini_Projet_IHM.Form3.resources
+C:\Users\alpha\Documents\Visual Studio 2013\Projects\Mini Projet IHM\Mini Projet IHM\obj\Debug\Mini_Projet_IHM.Form4.resources
+C:\Users\Samflame\Nextcloud\Projet IHM\Implémentation de l'application\Mini Projet IHM 3\Mini Projet IHM\bin\Debug\Mini Projet IHM.exe.config
+C:\Users\Samflame\Nextcloud\Projet IHM\Implémentation de l'application\Mini Projet IHM 3\Mini Projet IHM\bin\Debug\Mini Projet IHM.exe
+C:\Users\Samflame\Nextcloud\Projet IHM\Implémentation de l'application\Mini Projet IHM 3\Mini Projet IHM\bin\Debug\Mini Projet IHM.pdb
+C:\Users\Samflame\Nextcloud\Projet IHM\Implémentation de l'application\Mini Projet IHM 3\Mini Projet IHM\bin\Debug\Mini Projet IHM.xml
+C:\Users\Samflame\Nextcloud\Projet IHM\Implémentation de l'application\Mini Projet IHM 3\Mini Projet IHM\bin\Debug\AForge.dll
+C:\Users\Samflame\Nextcloud\Projet IHM\Implémentation de l'application\Mini Projet IHM 3\Mini Projet IHM\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Samflame\Nextcloud\Projet IHM\Implémentation de l'application\Mini Projet IHM 3\Mini Projet IHM\bin\Debug\AForge.Video.dll
+C:\Users\Samflame\Nextcloud\Projet IHM\Implémentation de l'application\Mini Projet IHM 3\Mini Projet IHM\bin\Debug\AForge.xml
+C:\Users\Samflame\Nextcloud\Projet IHM\Implémentation de l'application\Mini Projet IHM 3\Mini Projet IHM\bin\Debug\AForge.Video.xml
+C:\Users\Samflame\Nextcloud\Projet IHM\Implémentation de l'application\Mini Projet IHM 3\Mini Projet IHM\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Samflame\Nextcloud\Projet IHM\Implémentation de l'application\Mini Projet IHM 3\Mini Projet IHM\obj\Debug\Mini Projet IHM.vbprojAssemblyReference.cache
+C:\Users\Samflame\Nextcloud\Projet IHM\Implémentation de l'application\Mini Projet IHM 3\Mini Projet IHM\obj\Debug\Mini_Projet_IHM.Form1.resources
+C:\Users\Samflame\Nextcloud\Projet IHM\Implémentation de l'application\Mini Projet IHM 3\Mini Projet IHM\obj\Debug\Mini_Projet_IHM.Form2.resources
+C:\Users\Samflame\Nextcloud\Projet IHM\Implémentation de l'application\Mini Projet IHM 3\Mini Projet IHM\obj\Debug\Mini_Projet_IHM.Form3.resources
+C:\Users\Samflame\Nextcloud\Projet IHM\Implémentation de l'application\Mini Projet IHM 3\Mini Projet IHM\obj\Debug\Mini_Projet_IHM.Form4.resources
+C:\Users\Samflame\Nextcloud\Projet IHM\Implémentation de l'application\Mini Projet IHM 3\Mini Projet IHM\obj\Debug\Mini_Projet_IHM.Resources.resources
+C:\Users\Samflame\Nextcloud\Projet IHM\Implémentation de l'application\Mini Projet IHM 3\Mini Projet IHM\obj\Debug\Mini Projet IHM.vbproj.GenerateResource.cache
+C:\Users\Samflame\Nextcloud\Projet IHM\Implémentation de l'application\Mini Projet IHM 3\Mini Projet IHM\obj\Debug\Mini Projet IHM.vbproj.CoreCompileInputs.cache
+C:\Users\Samflame\Nextcloud\Projet IHM\Implémentation de l'application\Mini Projet IHM 3\Mini Projet IHM\obj\Debug\Mini Projet IHM.vbproj.CopyComplete
+C:\Users\Samflame\Nextcloud\Projet IHM\Implémentation de l'application\Mini Projet IHM 3\Mini Projet IHM\obj\Debug\Mini Projet IHM.exe
+C:\Users\Samflame\Nextcloud\Projet IHM\Implémentation de l'application\Mini Projet IHM 3\Mini Projet IHM\obj\Debug\Mini Projet IHM.xml
+C:\Users\Samflame\Nextcloud\Projet IHM\Implémentation de l'application\Mini Projet IHM 3\Mini Projet IHM\obj\Debug\Mini Projet IHM.pdb
+C:\Users\Samflame\Nextcloud\Projet IHM\Implémentation de l'application\Mini Projet IHM 3\Mini Projet IHM\obj\Debug\Mini Projet IHM.vbproj.ResolveComReference.cache
+C:\Users\alpha\Desktop\Mini Projet IHM 3\Mini Projet IHM\bin\Debug\Mini Projet IHM.exe.config
+C:\Users\alpha\Desktop\Mini Projet IHM 3\Mini Projet IHM\obj\Debug\Mini Projet IHM.vbproj.ResolveComReference.cache
+C:\Users\alpha\Desktop\Mini Projet IHM 3\Mini Projet IHM\obj\Debug\Mini Projet IHM.exe
+C:\Users\alpha\Desktop\Mini Projet IHM 3\Mini Projet IHM\obj\Debug\Mini Projet IHM.xml
+C:\Users\alpha\Desktop\Mini Projet IHM 3\Mini Projet IHM\obj\Debug\Mini Projet IHM.pdb
+C:\Users\alpha\Desktop\Mini Projet IHM 3\Mini Projet IHM\obj\Debug\Mini Projet IHM.vbprojResolveAssemblyReference.cache
+C:\Users\alpha\Desktop\Mini Projet IHM 3\Mini Projet IHM\obj\Debug\Mini_Projet_IHM.Form1.resources
+C:\Users\alpha\Desktop\Mini Projet IHM 3\Mini Projet IHM\obj\Debug\Mini_Projet_IHM.Form2.resources
+C:\Users\alpha\Desktop\Mini Projet IHM 3\Mini Projet IHM\obj\Debug\Mini_Projet_IHM.Form3.resources
+C:\Users\alpha\Desktop\Mini Projet IHM 3\Mini Projet IHM\obj\Debug\Mini_Projet_IHM.Form4.resources
+C:\Users\alpha\Desktop\Mini Projet IHM 3\Mini Projet IHM\obj\Debug\Mini_Projet_IHM.Resources.resources
+C:\Users\alpha\Desktop\Mini Projet IHM 3\Mini Projet IHM\obj\Debug\Mini Projet IHM.vbproj.GenerateResource.Cache
+C:\Users\alpha\Desktop\Mini Projet IHM 3\Mini Projet IHM\bin\Debug\Mini Projet IHM.exe
+C:\Users\alpha\Desktop\Mini Projet IHM 3\Mini Projet IHM\bin\Debug\Mini Projet IHM.pdb
+C:\Users\alpha\Desktop\Mini Projet IHM 3\Mini Projet IHM\bin\Debug\Mini Projet IHM.xml
+C:\Users\alpha\Desktop\Mini Projet IHM 3\Mini Projet IHM\bin\Debug\AForge.dll
+C:\Users\alpha\Desktop\Mini Projet IHM 3\Mini Projet IHM\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\alpha\Desktop\Mini Projet IHM 3\Mini Projet IHM\bin\Debug\AForge.Video.dll
+C:\Users\alpha\Desktop\Mini Projet IHM 3\Mini Projet IHM\bin\Debug\AForge.xml
+C:\Users\alpha\Desktop\Mini Projet IHM 3\Mini Projet IHM\bin\Debug\AForge.Video.xml
+C:\Users\alpha\Desktop\Mini Projet IHM 3\Mini Projet IHM\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\alpha\Desktop\Mini Projet IHM 4\Mini Projet IHM\bin\Debug\Mini Projet IHM.exe.config
+C:\Users\alpha\Desktop\Mini Projet IHM 4\Mini Projet IHM\obj\Debug\Mini Projet IHM.vbproj.ResolveComReference.cache
+C:\Users\alpha\Desktop\Mini Projet IHM 4\Mini Projet IHM\obj\Debug\Mini Projet IHM.exe
+C:\Users\alpha\Desktop\Mini Projet IHM 4\Mini Projet IHM\obj\Debug\Mini Projet IHM.xml
+C:\Users\alpha\Desktop\Mini Projet IHM 4\Mini Projet IHM\obj\Debug\Mini Projet IHM.pdb
+C:\Users\alpha\Desktop\Mini Projet IHM 4\Mini Projet IHM\bin\Debug\Mini Projet IHM.exe
+C:\Users\alpha\Desktop\Mini Projet IHM 4\Mini Projet IHM\bin\Debug\Mini Projet IHM.pdb
+C:\Users\alpha\Desktop\Mini Projet IHM 4\Mini Projet IHM\bin\Debug\Mini Projet IHM.xml
+C:\Users\alpha\Desktop\Mini Projet IHM 4\Mini Projet IHM\bin\Debug\AForge.dll
+C:\Users\alpha\Desktop\Mini Projet IHM 4\Mini Projet IHM\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\alpha\Desktop\Mini Projet IHM 4\Mini Projet IHM\bin\Debug\AForge.Video.dll
+C:\Users\alpha\Desktop\Mini Projet IHM 4\Mini Projet IHM\bin\Debug\AForge.xml
+C:\Users\alpha\Desktop\Mini Projet IHM 4\Mini Projet IHM\bin\Debug\AForge.Video.xml
+C:\Users\alpha\Desktop\Mini Projet IHM 4\Mini Projet IHM\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\alpha\Desktop\Mini Projet IHM 4\Mini Projet IHM\obj\Debug\Mini Projet IHM.vbprojResolveAssemblyReference.cache
+C:\Users\alpha\Desktop\Mini Projet IHM 4\Mini Projet IHM\obj\Debug\Mini_Projet_IHM.Form1.resources
+C:\Users\alpha\Desktop\Mini Projet IHM 4\Mini Projet IHM\obj\Debug\Mini_Projet_IHM.Form2.resources
+C:\Users\alpha\Desktop\Mini Projet IHM 4\Mini Projet IHM\obj\Debug\Mini_Projet_IHM.Form3.resources
+C:\Users\alpha\Desktop\Mini Projet IHM 4\Mini Projet IHM\obj\Debug\Mini_Projet_IHM.Form4.resources
+C:\Users\alpha\Desktop\Mini Projet IHM 4\Mini Projet IHM\obj\Debug\Mini_Projet_IHM.Resources.resources
+C:\Users\alpha\Desktop\Mini Projet IHM 4\Mini Projet IHM\obj\Debug\Mini Projet IHM.vbproj.GenerateResource.Cache
+C:\Users\Samflame\Nextcloud\Projet IHM\Implémentation de l'application\Mini Projet IHM 4\Mini Projet IHM\bin\Debug\Mini Projet IHM.exe.config
+C:\Users\Samflame\Nextcloud\Projet IHM\Implémentation de l'application\Mini Projet IHM 4\Mini Projet IHM\bin\Debug\Mini Projet IHM.exe
+C:\Users\Samflame\Nextcloud\Projet IHM\Implémentation de l'application\Mini Projet IHM 4\Mini Projet IHM\bin\Debug\Mini Projet IHM.pdb
+C:\Users\Samflame\Nextcloud\Projet IHM\Implémentation de l'application\Mini Projet IHM 4\Mini Projet IHM\bin\Debug\Mini Projet IHM.xml
+C:\Users\Samflame\Nextcloud\Projet IHM\Implémentation de l'application\Mini Projet IHM 4\Mini Projet IHM\bin\Debug\AForge.dll
+C:\Users\Samflame\Nextcloud\Projet IHM\Implémentation de l'application\Mini Projet IHM 4\Mini Projet IHM\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Samflame\Nextcloud\Projet IHM\Implémentation de l'application\Mini Projet IHM 4\Mini Projet IHM\bin\Debug\AForge.Video.dll
+C:\Users\Samflame\Nextcloud\Projet IHM\Implémentation de l'application\Mini Projet IHM 4\Mini Projet IHM\bin\Debug\AForge.xml
+C:\Users\Samflame\Nextcloud\Projet IHM\Implémentation de l'application\Mini Projet IHM 4\Mini Projet IHM\bin\Debug\AForge.Video.xml
+C:\Users\Samflame\Nextcloud\Projet IHM\Implémentation de l'application\Mini Projet IHM 4\Mini Projet IHM\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Samflame\Nextcloud\Projet IHM\Implémentation de l'application\Mini Projet IHM 4\Mini Projet IHM\obj\Debug\Mini Projet IHM.vbprojAssemblyReference.cache
+C:\Users\Samflame\Nextcloud\Projet IHM\Implémentation de l'application\Mini Projet IHM 4\Mini Projet IHM\obj\Debug\Mini Projet IHM.vbproj.ResolveComReference.cache
+C:\Users\Samflame\Nextcloud\Projet IHM\Implémentation de l'application\Mini Projet IHM 4\Mini Projet IHM\obj\Debug\Mini_Projet_IHM.Form1.resources
+C:\Users\Samflame\Nextcloud\Projet IHM\Implémentation de l'application\Mini Projet IHM 4\Mini Projet IHM\obj\Debug\Mini_Projet_IHM.Form2.resources
+C:\Users\Samflame\Nextcloud\Projet IHM\Implémentation de l'application\Mini Projet IHM 4\Mini Projet IHM\obj\Debug\Mini_Projet_IHM.Form3.resources
+C:\Users\Samflame\Nextcloud\Projet IHM\Implémentation de l'application\Mini Projet IHM 4\Mini Projet IHM\obj\Debug\Mini_Projet_IHM.Form4.resources
+C:\Users\Samflame\Nextcloud\Projet IHM\Implémentation de l'application\Mini Projet IHM 4\Mini Projet IHM\obj\Debug\Mini_Projet_IHM.Resources.resources
+C:\Users\Samflame\Nextcloud\Projet IHM\Implémentation de l'application\Mini Projet IHM 4\Mini Projet IHM\obj\Debug\Mini Projet IHM.vbproj.GenerateResource.cache
+C:\Users\Samflame\Nextcloud\Projet IHM\Implémentation de l'application\Mini Projet IHM 4\Mini Projet IHM\obj\Debug\Mini Projet IHM.vbproj.CoreCompileInputs.cache
+C:\Users\Samflame\Nextcloud\Projet IHM\Implémentation de l'application\Mini Projet IHM 4\Mini Projet IHM\obj\Debug\Mini Projet IHM.vbproj.CopyComplete
+C:\Users\Samflame\Nextcloud\Projet IHM\Implémentation de l'application\Mini Projet IHM 4\Mini Projet IHM\obj\Debug\Mini Projet IHM.exe
+C:\Users\Samflame\Nextcloud\Projet IHM\Implémentation de l'application\Mini Projet IHM 4\Mini Projet IHM\obj\Debug\Mini Projet IHM.xml
+C:\Users\Samflame\Nextcloud\Projet IHM\Implémentation de l'application\Mini Projet IHM 4\Mini Projet IHM\obj\Debug\Mini Projet IHM.pdb
+C:\Users\Samflame\Nextcloud\Projet IHM\Implémentation de l'application\Mini Projet IHM 4\Mini Projet IHM\obj\Debug\Mini_Projet_IHM.Form6.resources
+C:\Users\Samflame\Nextcloud\Projet IHM\Implémentation de l'application\Mini Projet IHM 4 - ALPHA\Mini Projet IHM\bin\Debug\Mini Projet IHM.exe.config
+C:\Users\Samflame\Nextcloud\Projet IHM\Implémentation de l'application\Mini Projet IHM 4 - ALPHA\Mini Projet IHM\bin\Debug\Mini Projet IHM.exe
+C:\Users\Samflame\Nextcloud\Projet IHM\Implémentation de l'application\Mini Projet IHM 4 - ALPHA\Mini Projet IHM\bin\Debug\Mini Projet IHM.pdb
+C:\Users\Samflame\Nextcloud\Projet IHM\Implémentation de l'application\Mini Projet IHM 4 - ALPHA\Mini Projet IHM\bin\Debug\Mini Projet IHM.xml
+C:\Users\Samflame\Nextcloud\Projet IHM\Implémentation de l'application\Mini Projet IHM 4 - ALPHA\Mini Projet IHM\bin\Debug\AForge.dll
+C:\Users\Samflame\Nextcloud\Projet IHM\Implémentation de l'application\Mini Projet IHM 4 - ALPHA\Mini Projet IHM\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Samflame\Nextcloud\Projet IHM\Implémentation de l'application\Mini Projet IHM 4 - ALPHA\Mini Projet IHM\bin\Debug\AForge.Video.dll
+C:\Users\Samflame\Nextcloud\Projet IHM\Implémentation de l'application\Mini Projet IHM 4 - ALPHA\Mini Projet IHM\bin\Debug\AForge.xml
+C:\Users\Samflame\Nextcloud\Projet IHM\Implémentation de l'application\Mini Projet IHM 4 - ALPHA\Mini Projet IHM\bin\Debug\AForge.Video.xml
+C:\Users\Samflame\Nextcloud\Projet IHM\Implémentation de l'application\Mini Projet IHM 4 - ALPHA\Mini Projet IHM\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Samflame\Nextcloud\Projet IHM\Implémentation de l'application\Mini Projet IHM 4 - ALPHA\Mini Projet IHM\obj\Debug\Mini Projet IHM.vbprojAssemblyReference.cache
+C:\Users\Samflame\Nextcloud\Projet IHM\Implémentation de l'application\Mini Projet IHM 4 - ALPHA\Mini Projet IHM\obj\Debug\Mini Projet IHM.vbproj.ResolveComReference.cache
+C:\Users\Samflame\Nextcloud\Projet IHM\Implémentation de l'application\Mini Projet IHM 4 - ALPHA\Mini Projet IHM\obj\Debug\Mini_Projet_IHM.Form1.resources
+C:\Users\Samflame\Nextcloud\Projet IHM\Implémentation de l'application\Mini Projet IHM 4 - ALPHA\Mini Projet IHM\obj\Debug\Mini_Projet_IHM.Form2.resources
+C:\Users\Samflame\Nextcloud\Projet IHM\Implémentation de l'application\Mini Projet IHM 4 - ALPHA\Mini Projet IHM\obj\Debug\Mini_Projet_IHM.Form3.resources
+C:\Users\Samflame\Nextcloud\Projet IHM\Implémentation de l'application\Mini Projet IHM 4 - ALPHA\Mini Projet IHM\obj\Debug\Mini_Projet_IHM.Form4.resources
+C:\Users\Samflame\Nextcloud\Projet IHM\Implémentation de l'application\Mini Projet IHM 4 - ALPHA\Mini Projet IHM\obj\Debug\Mini_Projet_IHM.Resources.resources
+C:\Users\Samflame\Nextcloud\Projet IHM\Implémentation de l'application\Mini Projet IHM 4 - ALPHA\Mini Projet IHM\obj\Debug\Mini Projet IHM.vbproj.GenerateResource.cache
+C:\Users\Samflame\Nextcloud\Projet IHM\Implémentation de l'application\Mini Projet IHM 4 - ALPHA\Mini Projet IHM\obj\Debug\Mini Projet IHM.vbproj.CoreCompileInputs.cache
+C:\Users\Samflame\Nextcloud\Projet IHM\Implémentation de l'application\Mini Projet IHM 4 - ALPHA\Mini Projet IHM\obj\Debug\Mini Projet IHM.vbproj.CopyComplete
+C:\Users\Samflame\Nextcloud\Projet IHM\Implémentation de l'application\Mini Projet IHM 4 - ALPHA\Mini Projet IHM\obj\Debug\Mini Projet IHM.exe
+C:\Users\Samflame\Nextcloud\Projet IHM\Implémentation de l'application\Mini Projet IHM 4 - ALPHA\Mini Projet IHM\obj\Debug\Mini Projet IHM.xml
+C:\Users\Samflame\Nextcloud\Projet IHM\Implémentation de l'application\Mini Projet IHM 4 - ALPHA\Mini Projet IHM\obj\Debug\Mini Projet IHM.pdb
+C:\Users\alpha\Desktop\Mini Projet IHM 4 - ALPHA\Mini Projet IHM\bin\Debug\Mini Projet IHM.exe.config
+C:\Users\alpha\Desktop\Mini Projet IHM 4 - ALPHA\Mini Projet IHM\obj\Debug\Mini Projet IHM.vbproj.ResolveComReference.cache
+C:\Users\alpha\Desktop\Mini Projet IHM 4 - ALPHA\Mini Projet IHM\obj\Debug\Mini Projet IHM.exe
+C:\Users\alpha\Desktop\Mini Projet IHM 4 - ALPHA\Mini Projet IHM\obj\Debug\Mini Projet IHM.xml
+C:\Users\alpha\Desktop\Mini Projet IHM 4 - ALPHA\Mini Projet IHM\obj\Debug\Mini Projet IHM.pdb
+C:\Users\alpha\Desktop\Mini Projet IHM 4 - ALPHA\Mini Projet IHM\bin\Debug\Mini Projet IHM.exe
+C:\Users\alpha\Desktop\Mini Projet IHM 4 - ALPHA\Mini Projet IHM\bin\Debug\Mini Projet IHM.pdb
+C:\Users\alpha\Desktop\Mini Projet IHM 4 - ALPHA\Mini Projet IHM\bin\Debug\Mini Projet IHM.xml
+C:\Users\alpha\Desktop\Mini Projet IHM 4 - ALPHA\Mini Projet IHM\bin\Debug\AForge.dll
+C:\Users\alpha\Desktop\Mini Projet IHM 4 - ALPHA\Mini Projet IHM\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\alpha\Desktop\Mini Projet IHM 4 - ALPHA\Mini Projet IHM\bin\Debug\AForge.Video.dll
+C:\Users\alpha\Desktop\Mini Projet IHM 4 - ALPHA\Mini Projet IHM\bin\Debug\AForge.xml
+C:\Users\alpha\Desktop\Mini Projet IHM 4 - ALPHA\Mini Projet IHM\bin\Debug\AForge.Video.xml
+C:\Users\alpha\Desktop\Mini Projet IHM 4 - ALPHA\Mini Projet IHM\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\alpha\Desktop\Mini Projet IHM 4 - ALPHA\Mini Projet IHM\obj\Debug\Mini Projet IHM.vbprojResolveAssemblyReference.cache
+C:\Users\alpha\Desktop\Mini Projet IHM 4 - ALPHA\Mini Projet IHM\obj\Debug\Mini_Projet_IHM.Form1.resources
+C:\Users\alpha\Desktop\Mini Projet IHM 4 - ALPHA\Mini Projet IHM\obj\Debug\Mini_Projet_IHM.Form2.resources
+C:\Users\alpha\Desktop\Mini Projet IHM 4 - ALPHA\Mini Projet IHM\obj\Debug\Mini_Projet_IHM.Form3.resources
+C:\Users\alpha\Desktop\Mini Projet IHM 4 - ALPHA\Mini Projet IHM\obj\Debug\Mini_Projet_IHM.Form4.resources
+C:\Users\alpha\Desktop\Mini Projet IHM 4 - ALPHA\Mini Projet IHM\obj\Debug\Mini_Projet_IHM.Resources.resources
+C:\Users\alpha\Desktop\Mini Projet IHM 4 - ALPHA\Mini Projet IHM\obj\Debug\Mini Projet IHM.vbproj.GenerateResource.Cache
+C:\Users\Samflame\Nextcloud\Projet IHM\Implémentation de l'application\MiniProjet_IHM_AK_SP\Mini Projet IHM\bin\Debug\Mini Projet IHM.exe.config
+C:\Users\Samflame\Nextcloud\Projet IHM\Implémentation de l'application\MiniProjet_IHM_AK_SP\Mini Projet IHM\bin\Debug\Mini Projet IHM.exe
+C:\Users\Samflame\Nextcloud\Projet IHM\Implémentation de l'application\MiniProjet_IHM_AK_SP\Mini Projet IHM\bin\Debug\Mini Projet IHM.pdb
+C:\Users\Samflame\Nextcloud\Projet IHM\Implémentation de l'application\MiniProjet_IHM_AK_SP\Mini Projet IHM\bin\Debug\Mini Projet IHM.xml
+C:\Users\Samflame\Nextcloud\Projet IHM\Implémentation de l'application\MiniProjet_IHM_AK_SP\Mini Projet IHM\bin\Debug\AForge.xml
+C:\Users\Samflame\Nextcloud\Projet IHM\Implémentation de l'application\MiniProjet_IHM_AK_SP\Mini Projet IHM\bin\Debug\AForge.Video.xml
+C:\Users\Samflame\Nextcloud\Projet IHM\Implémentation de l'application\MiniProjet_IHM_AK_SP\Mini Projet IHM\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Samflame\Nextcloud\Projet IHM\Implémentation de l'application\MiniProjet_IHM_AK_SP\Mini Projet IHM\obj\Debug\Mini Projet IHM.vbprojAssemblyReference.cache
+C:\Users\Samflame\Nextcloud\Projet IHM\Implémentation de l'application\MiniProjet_IHM_AK_SP\Mini Projet IHM\obj\Debug\Mini Projet IHM.vbproj.ResolveComReference.cache
+C:\Users\Samflame\Nextcloud\Projet IHM\Implémentation de l'application\MiniProjet_IHM_AK_SP\Mini Projet IHM\obj\Debug\Mini_Projet_IHM.Form1.resources
+C:\Users\Samflame\Nextcloud\Projet IHM\Implémentation de l'application\MiniProjet_IHM_AK_SP\Mini Projet IHM\obj\Debug\Mini_Projet_IHM.Form2.resources
+C:\Users\Samflame\Nextcloud\Projet IHM\Implémentation de l'application\MiniProjet_IHM_AK_SP\Mini Projet IHM\obj\Debug\Mini_Projet_IHM.Form3.resources
+C:\Users\Samflame\Nextcloud\Projet IHM\Implémentation de l'application\MiniProjet_IHM_AK_SP\Mini Projet IHM\obj\Debug\Mini_Projet_IHM.Form4.resources
+C:\Users\Samflame\Nextcloud\Projet IHM\Implémentation de l'application\MiniProjet_IHM_AK_SP\Mini Projet IHM\obj\Debug\Mini_Projet_IHM.Resources.resources
+C:\Users\Samflame\Nextcloud\Projet IHM\Implémentation de l'application\MiniProjet_IHM_AK_SP\Mini Projet IHM\obj\Debug\Mini Projet IHM.vbproj.GenerateResource.cache
+C:\Users\Samflame\Nextcloud\Projet IHM\Implémentation de l'application\MiniProjet_IHM_AK_SP\Mini Projet IHM\obj\Debug\Mini Projet IHM.vbproj.CoreCompileInputs.cache
+C:\Users\Samflame\Nextcloud\Projet IHM\Implémentation de l'application\MiniProjet_IHM_AK_SP\Mini Projet IHM\obj\Debug\Mini Projet IHM.vbproj.CopyComplete
+C:\Users\Samflame\Nextcloud\Projet IHM\Implémentation de l'application\MiniProjet_IHM_AK_SP\Mini Projet IHM\obj\Debug\Mini Projet IHM.exe
+C:\Users\Samflame\Nextcloud\Projet IHM\Implémentation de l'application\MiniProjet_IHM_AK_SP\Mini Projet IHM\obj\Debug\Mini Projet IHM.xml
+C:\Users\Samflame\Nextcloud\Projet IHM\Implémentation de l'application\MiniProjet_IHM_AK_SP\Mini Projet IHM\obj\Debug\Mini Projet IHM.pdb
+C:\Users\alpha\Downloads\MiniProjet_IHM_AK_SP\MiniProjet_IHM_AK_SP\Mini Projet IHM\bin\Debug\Mini Projet IHM.exe.config
+C:\Users\alpha\Downloads\MiniProjet_IHM_AK_SP\MiniProjet_IHM_AK_SP\Mini Projet IHM\obj\Debug\Mini Projet IHM.vbproj.ResolveComReference.cache
+C:\Users\alpha\Downloads\MiniProjet_IHM_AK_SP\MiniProjet_IHM_AK_SP\Mini Projet IHM\obj\Debug\Mini Projet IHM.exe
+C:\Users\alpha\Downloads\MiniProjet_IHM_AK_SP\MiniProjet_IHM_AK_SP\Mini Projet IHM\obj\Debug\Mini Projet IHM.xml
+C:\Users\alpha\Downloads\MiniProjet_IHM_AK_SP\MiniProjet_IHM_AK_SP\Mini Projet IHM\obj\Debug\Mini Projet IHM.pdb
+C:\Users\alpha\Downloads\MiniProjet_IHM_AK_SP\MiniProjet_IHM_AK_SP\Mini Projet IHM\bin\Debug\Mini Projet IHM.exe
+C:\Users\alpha\Downloads\MiniProjet_IHM_AK_SP\MiniProjet_IHM_AK_SP\Mini Projet IHM\bin\Debug\Mini Projet IHM.pdb
+C:\Users\alpha\Downloads\MiniProjet_IHM_AK_SP\MiniProjet_IHM_AK_SP\Mini Projet IHM\bin\Debug\Mini Projet IHM.xml
+C:\Users\alpha\Downloads\MiniProjet_IHM_AK_SP\MiniProjet_IHM_AK_SP\Mini Projet IHM\bin\Debug\AForge.dll
+C:\Users\alpha\Downloads\MiniProjet_IHM_AK_SP\MiniProjet_IHM_AK_SP\Mini Projet IHM\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\alpha\Downloads\MiniProjet_IHM_AK_SP\MiniProjet_IHM_AK_SP\Mini Projet IHM\bin\Debug\AForge.Video.dll
+C:\Users\alpha\Downloads\MiniProjet_IHM_AK_SP\MiniProjet_IHM_AK_SP\Mini Projet IHM\bin\Debug\AForge.xml
+C:\Users\alpha\Downloads\MiniProjet_IHM_AK_SP\MiniProjet_IHM_AK_SP\Mini Projet IHM\bin\Debug\AForge.Video.xml
+C:\Users\alpha\Downloads\MiniProjet_IHM_AK_SP\MiniProjet_IHM_AK_SP\Mini Projet IHM\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\alpha\Downloads\MiniProjet_IHM_AK_SP\MiniProjet_IHM_AK_SP\Mini Projet IHM\obj\Debug\Mini Projet IHM.vbprojResolveAssemblyReference.cache
+C:\Users\alpha\Downloads\MiniProjet_IHM_AK_SP\MiniProjet_IHM_AK_SP\Mini Projet IHM\obj\Debug\Mini_Projet_IHM.Form1.resources
+C:\Users\alpha\Downloads\MiniProjet_IHM_AK_SP\MiniProjet_IHM_AK_SP\Mini Projet IHM\obj\Debug\Mini_Projet_IHM.Form2.resources
+C:\Users\alpha\Downloads\MiniProjet_IHM_AK_SP\MiniProjet_IHM_AK_SP\Mini Projet IHM\obj\Debug\Mini_Projet_IHM.Form3.resources
+C:\Users\alpha\Downloads\MiniProjet_IHM_AK_SP\MiniProjet_IHM_AK_SP\Mini Projet IHM\obj\Debug\Mini_Projet_IHM.Form4.resources
+C:\Users\alpha\Downloads\MiniProjet_IHM_AK_SP\MiniProjet_IHM_AK_SP\Mini Projet IHM\obj\Debug\Mini_Projet_IHM.Resources.resources
+C:\Users\alpha\Downloads\MiniProjet_IHM_AK_SP\MiniProjet_IHM_AK_SP\Mini Projet IHM\obj\Debug\Mini Projet IHM.vbproj.GenerateResource.Cache
